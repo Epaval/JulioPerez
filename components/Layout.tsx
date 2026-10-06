@@ -84,7 +84,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           </p>
           <div className="mt-3">
             <p className="text-xs opacity-80">
-              Desarrollador Backend | Especialista en JavaScript, Python, Rust y Bases de Datos
+              Desarrollador Backend | Especialista en JavaScript, Python y Bases de Datos
             </p>
           </div>
         </div>

@@ -180,7 +180,7 @@ const SocialLinks = () => (
         <div className="container mx-auto px-6 text-center">
           <h1 className="text-5xl md:text-7xl font-bold mb-4 tracking-tight">Julio Pérez</h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8">
-            Desarrollador Backend | JavaScript, Python, Rust | APIs REST
+            Desarrollador Backend | TypeScript, JavaScript, Python | APIs REST
           </p>
           <SocialLinks />
         </div>
@@ -193,7 +193,7 @@ const SocialLinks = () => (
           <div className="max-w-4xl mx-auto text-center">
             <p className="text-lg text-gray-700 leading-relaxed mb-12">
               Desarrollador web apasionado por la creación de soluciones digitales eficientes y escalables.
-              Especializado en tecnologías modernas como Node.js, Python, Rust, PostgreSQL, MySQL y Firebase,
+              Especializado en tecnologías modernas como Node.js, Python, PostgreSQL, MySQL y Firebase,
               combinando rendimiento backend con arquitecturas limpias y mantenibles.
             </p>
             <div className="grid md:grid-cols-3 gap-10">
@@ -209,7 +209,7 @@ const SocialLinks = () => (
                   <span className="text-2xl text-gray-700">🔧</span>
                 </div>
                 <h3 className="text-xl font-semibold text-gray-800 mb-2">Backend</h3>
-                <p className="text-gray-600">Python, Node.js, Rust, PostgreSQL, MySQL</p>
+                <p className="text-gray-600">Python, Node.js, PostgreSQL, MySQL</p>
               </div>
               <div className="text-center">
                 <div className="bg-gray-200 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-5">
